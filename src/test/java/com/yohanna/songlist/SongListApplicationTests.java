@@ -1,10 +1,10 @@
-package com.yohanna.movielist;
+package com.yohanna.songlist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MovielistApplicationTests {
+class SongListApplicationTests {
 
 	@Test
 	void contextLoads() {
